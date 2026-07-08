@@ -19,7 +19,7 @@ body {
     margin-top: 100px;
     background: linear-gradient(135deg,#00c6ff,#0072ff);
     box-shadow: 0 10px 25px rgba(0,0,0,1);
-    width: 90%;
+    
     
 
     
@@ -94,16 +94,6 @@ button :hover {
 .details img {
     width: 30px;
     height: 30px;
-}
-@media(max-width:768px) {
-    #conatiner{
-        width: 90%;
-    }
-    .details{
-        flex-direction: column;
-        gap: 15px;
-
-    }
 }
 
 
